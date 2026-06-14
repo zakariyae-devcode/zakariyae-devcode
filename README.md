@@ -31,7 +31,7 @@ I am a passionate **Software Developer** focused on building efficient, scalable
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakariyae-devcode&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariyae-devcode&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
