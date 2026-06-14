@@ -1,11 +1,11 @@
 # Hi there, I'm Zakariyae ABBIH 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Software+Developer;Turning+administrative+complexity;into+clean+code..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Turning+administrative+complexity;into+clean+code..." alt="Typing SVG" />
 </p>
 
 ### 👤 About Me
-I am a passionate **Software Developer** focused on building efficient, scalable, and elegant web applications. My core strength lies in **turning administrative complexity into clean, maintainable code**.
+I am a passionate **Full-Stack Web Developer** focused on building efficient, scalable, and elegant web applications. My core strength lies in **turning administrative complexity into clean, maintainable code**.
 
 ---
 
@@ -31,14 +31,14 @@ I am a passionate **Software Developer** focused on building efficient, scalable
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakariyae-devcode&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariyae-devcode&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariyae-devcode&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/zakariyae-abbih" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zakariyae.abbih.dev@gmail.com">
